@@ -1,0 +1,93 @@
+#tit{
+  background: linear-gradient(transparent 70%, #a7b6ff 70%);
+  width: 200px;
+}
+
+h2 {
+  color: #364e96;
+  border: solid 3px #364e96;
+  padding: 0.5em;
+  border-radius: 0.5em;
+  width: 100px;
+  }
+
+p1 {
+padding: 0.4em 0.5em;
+color: #494949;
+background: #f4f4f4;
+border-left: solid 5px #7db4e6;
+border-bottom: solid 3px #d7d7d7;
+}
+
+#abc{
+  padding: 0.4em 0.5em;
+  border-left :solid 5px blue;
+  font-weight: bold;
+  color: black;
+  background: #7bcad8;
+  border-bottom: solid 3px #d7d7d7;
+}
+
+#radio{
+  transform: scale(1.5);
+}
+
+#radioSelect {
+  position: relative;
+  display: inline-block;
+  font-weight: bold;
+  padding: 0.25em 0.5em;
+  text-decoration: none;
+  color: #FFF;
+  background: #e20517;
+  transition: .4s;
+}
+
+#radioSelect:hover {
+  background: #c71e6d;
+}
+
+#chat {
+  list-style-type: none;
+  margin-top: 30px;
+  padding: 0;
+}
+
+#chat li {
+  padding: 5px 10px;
+}
+
+#chat li:nth-child(odd) {
+  background: #eee;
+}
+
+#chat li2 {
+  padding: 5px 10px;
+  border-left :solid 5px red;
+  font-weight: bold;
+  color: black;
+  background: rgb(197, 102, 102);
+}
+
+#chat li2:nth-child(odd) {
+  border-left :solid 5px red;
+  font-weight: bold;
+  color: black;
+  background:rgb(197, 102, 102) ;
+}
+
+#chat result {
+  padding: 5px 10px;
+  border-left :solid 5px rgb(103, 165, 21);
+  font-weight: bold;
+  color: black;
+  background: yellow;
+}
+
+#chat result:nth-child(odd) {
+  border-left :solid 5px rgb(103, 165, 21);
+  font-weight: bold;
+  color: black;
+  background: yellow ;
+}
+
